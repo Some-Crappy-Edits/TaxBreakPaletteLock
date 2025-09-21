@@ -6,8 +6,7 @@ This is extremely sloppy code built off of another game I was working on, so kee
 I know the bottom section is dumb for literally a game two people will play, but you never know.
 
 And so this isn't in the License and Copyright section, and does not OFFICIALLY reflect that section so still read through it,
-tl;dr you're gonna be fine using this code for legitimate purposes. It's purely to prevent sprite swap copies being sold. 
-Even if gameplay is the exact same, just making new levels and features is fine enough lol.
+tl;dr you're gonna be fine using this code for legitimate purposes. It's purely to prevent sprite swap copies being sold.
 
 
 **License & Copyright**

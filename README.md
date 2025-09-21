@@ -20,7 +20,7 @@ Visual assets, characters, music, story, voice acting, level design, or other ar
 use in generative models dealing with artificial intelligence, regardless of personal, commercial. or
 charitable use, without direct permission from the respective artists.
 
-For general information of "Tax Break with Ernie Griswald," please contact Some-Crappy-Edits.
+"Tax Break with Ernie Griswald" belongs to Some-Crappy-Edits, and for any interest relating to the game, please contact through the methods below:
 
 Contact Information:
 

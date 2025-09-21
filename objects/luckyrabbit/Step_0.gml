@@ -12,11 +12,10 @@ if place_meeting (x,y,playGoop) {
 //I was in it, you know
 //In fact, this game was built off of the new Ally update
 //It's not done yet, but will be soon!
-//I hope wex'll be able to meet again, or the first time, I don't know...
+//I hope we'll be able to meet again, or the first time, I don't know...
 //Anyway, I think I should give you a hint on where I am, when the update releases
 //Only super players can get this, so listen up
-//When the credits roll, stay in your seat
-//You may get a surprise...
+//https://midnightfright.bandcamp.com/album/-
 //Alright, until we meet again!
 
 

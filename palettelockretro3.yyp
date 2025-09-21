@@ -14,6 +14,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Information for Dataminers","folderPath":"folders/Information for Dataminers.yy","name":"Information for Dataminers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Input","folderPath":"folders/Input.yy","name":"Input","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"(System)","folderPath":"folders/Input/(System).yy","name":"(System)","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -203,7 +204,6 @@
     {"id":{"name":"ScoreBoard","path":"objects/ScoreBoard/ScoreBoard.yy",},},
     {"id":{"name":"SettingsMenu","path":"objects/SettingsMenu/SettingsMenu.yy",},},
     {"id":{"name":"SpawnPoofSpr","path":"objects/SpawnPoofSpr/SpawnPoofSpr.yy",},},
-    {"id":{"name":"SpeedrunClock","path":"objects/SpeedrunClock/SpeedrunClock.yy",},},
     {"id":{"name":"tablet_button","path":"objects/tablet_button/tablet_button.yy",},},
     {"id":{"name":"TaxFormOBJ","path":"objects/TaxFormOBJ/TaxFormOBJ.yy",},},
     {"id":{"name":"templatetomeasure","path":"objects/templatetomeasure/templatetomeasure.yy",},},
@@ -220,6 +220,7 @@
     {"id":{"name":"warpzoneNEWGAME","path":"objects/warpzoneNEWGAME/warpzoneNEWGAME.yy",},},
     {"id":{"name":"warpzoneTELEPORT","path":"objects/warpzoneTELEPORT/warpzoneTELEPORT.yy",},},
     {"id":{"name":"warpzoneTOUCH","path":"objects/warpzoneTOUCH/warpzoneTOUCH.yy",},},
+    {"id":{"name":"Path4","path":"paths/Path4/Path4.yy",},},
     {"id":{"name":"ClickRoom","path":"rooms/ClickRoom/ClickRoom.yy",},},
     {"id":{"name":"EndingTaxFraud","path":"rooms/EndingTaxFraud/EndingTaxFraud.yy",},},
     {"id":{"name":"EndingWin","path":"rooms/EndingWin/EndingWin.yy",},},

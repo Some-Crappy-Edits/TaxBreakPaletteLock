@@ -24,5 +24,7 @@ charitable use, without direct permission from the respective artists.
 For general information of "Tax Break with Ernie Griswald," please contact Some-Crappy-Edits.
 
 Contact Information:
+
 somecrappyeditscontact@gmail.com
+
 https://somecrappyedits.carrd.co/

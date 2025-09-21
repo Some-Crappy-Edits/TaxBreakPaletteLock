@@ -1,0 +1,25 @@
+{
+  "$GMSound": "",
+  "%Name": "GContemplate1",
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "bitDepth": 1,
+  "bitRate": 128,
+  "compression": 0,
+  "conversionMode": 0,
+  "duration": 3.069728,
+  "name": "GContemplate1",
+  "parent": {
+    "name": "UniqueLines",
+    "path": "folders/Sounds/Sound Effects/GriswaldVoice/UniqueLines.yy",
+  },
+  "preload": false,
+  "resourceType": "GMSound",
+  "resourceVersion": "2.0",
+  "sampleRate": 44100,
+  "soundFile": "GContemplate1.wav",
+  "type": 0,
+  "volume": 1.0,
+}

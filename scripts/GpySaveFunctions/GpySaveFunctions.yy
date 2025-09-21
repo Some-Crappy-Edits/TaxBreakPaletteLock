@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GpySaveFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GpySaveFunctions",
+  "parent":{
+    "name":"Saving",
+    "path":"folders/Settings/Saving.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

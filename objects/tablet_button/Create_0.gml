@@ -1,0 +1,1 @@
+HitCheck = 0;

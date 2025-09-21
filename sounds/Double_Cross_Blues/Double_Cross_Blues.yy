@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Double_Cross_Blues",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":3,
+  "conversionMode":0,
+  "duration":75.44206,
+  "name":"Double_Cross_Blues",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"Double_Cross_Blues.ogg",
+  "type":1,
+  "volume":1.0,
+}

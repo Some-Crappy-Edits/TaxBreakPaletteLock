@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GpyFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GpyFunctions",
+  "parent":{
+    "name":"Settings",
+    "path":"folders/Settings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound": "",
+  "%Name": "GIDK1",
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "bitDepth": 1,
+  "bitRate": 128,
+  "compression": 0,
+  "conversionMode": 0,
+  "duration": 2.06873,
+  "name": "GIDK1",
+  "parent": {
+    "name": "GenericLines",
+    "path": "folders/Sounds/Sound Effects/GriswaldVoice/GenericLines.yy",
+  },
+  "preload": false,
+  "resourceType": "GMSound",
+  "resourceVersion": "2.0",
+  "sampleRate": 44100,
+  "soundFile": "GIDK1.wav",
+  "type": 0,
+  "volume": 1.0,
+}

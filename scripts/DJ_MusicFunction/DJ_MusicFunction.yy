@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DJ_MusicFunction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DJ_MusicFunction",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Settings/Music.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

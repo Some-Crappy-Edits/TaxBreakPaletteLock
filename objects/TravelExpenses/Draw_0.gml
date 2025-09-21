@@ -1,0 +1,1 @@
+draw_sprite(tiles,2,x,y);

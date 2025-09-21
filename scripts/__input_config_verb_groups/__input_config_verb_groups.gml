@@ -1,0 +1,36 @@
+// Feather disable all
+
+//Defines which verbs should collide with which other verbs when using input_binding_get_collisions()
+//and input_binding_set_safe(). A verb that is not present in a group will collide with all other verbs
+//
+//__input_config_verb_groups() must be defined using the following format:
+//
+//return {
+//    <group name>: [<verb1>, <verb2>, ...],
+//    <group name>: [<verb3>, <verb4>, ...],
+//    ...
+//}
+
+function __input_config_verb_groups()
+{
+    return {
+        actiongroup:	["action","menuaction"],
+		speedgroup:		["run","fasttext"],
+    };
+};
+
+function _input_dev_keys()
+{
+	input_binding_scan_params_set(
+	
+	[
+	
+	vk_backspace,
+	vk_f11,
+	
+	]);
+	
+	input_ignore_key_add(vk_backspace);
+	input_ignore_key_add(vk_f11);
+	
+}

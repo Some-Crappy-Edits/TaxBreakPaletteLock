@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TextManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextManager",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Settings/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

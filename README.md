@@ -13,10 +13,10 @@ tl;dr you're gonna be fine using this code for legitimate purposes. It's purely 
 
 The source code itself is under the MIT License, allowing free use for commercial purposes.
 
-Visual assets, characters, music, story, voice acting, level design, or other artistic and distinctive works are not allowed for commercial use 
+Visual assets, characters, music, story, voice acting, writing, level design, or other artistic and distinctive works are not allowed for commercial use 
 without direct permission from the respective artists.
 
-Visual assets, characters, music, story, voice acting, level design, or other artistic and distinctive works are not allowed for 
+Visual assets, characters, music, story, voice acting, writing, level design, or other artistic and distinctive works are not allowed for 
 use in generative models dealing with artificial intelligence, regardless of personal, commercial. or
 charitable use, without direct permission from the respective artists.
 
